@@ -7,6 +7,7 @@ Criando primeiro repositório do Bootcamp Digital Innovation One - Desafio de Pr
  - Git/GitHub
  - HTML
  - CSS
+ - Bootstrap
  - JavaScript
  - ReactJS
  - JAVA
